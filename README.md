@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **Python API Projects**
 - 🌱 I’m currently learning **Python,Flask,Fast API**
 -🌱 I’m currently learning **DOCKER,GCP,SAP,DBT** and improving my data structures.
--👯 I’m looking to collaborate on open source projects related to environmental sustainability and climate change awareness, specifically focusing on FAST API. I believe in the power of technology to drive positive change, and I'm enthusiastic about contributing to projects that align with my interests. If you're working on a FAST API project centered around environmental causes, I'd love to get involved. Let's join forces to create innovative solutions for a greener future!
--💬 Ask me about backend development using technologies like FAST API and Flask, database design and optimization, and building scalable APIs. I'm also well-versed in deploying applications on cloud platforms and optimizing server performance. Additionally, I can assist you with software architecture, microservices, and RESTful API best practices.
+-👯 I’m looking to collaborate on open source projects related to environmental sustainability and climate change awareness, specifically focusing on FAST API. I believe in the power of technology to drive positive change, and I'm enthusiastic about contributing to projects that align with my interests.
+-💬 Ask me about backend development using technologies like FAST API and Flask, database design and optimization, and building scalable APIs. I'm also well-versed in deploying applications on cloud platforms and optimizing server performance.
 -📫 How to reach me: Email me at s.sharib.hasan@gmail.com
 
 
